@@ -1,5 +1,8 @@
-FROM python:3.10-slim
+FROM python:3.10
 
+ENV HTTP_PROXY=""
+ENV HTTPS_PROXY=""
+ENV NO_PROXY=""
 # set the working directory
 WORKDIR /code
 
