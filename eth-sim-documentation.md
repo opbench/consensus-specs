@@ -55,3 +55,7 @@ docker run -d --name consensus-specs -v /${PWD}:/code consensus-test
 - folder 열기 > /code
 - mount되어있는 프로젝트 코드 확인 가능 및 수정
 - ctrl + ` > ternminal 열림 코드 실행 가능 (linux환경)
+
+### 참고
+- Docker의 chroot 이해하기
+- https://velog.io/@gwak2837/chroot-%EC%8B%A4%EC%8A%B5
