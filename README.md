@@ -18,7 +18,7 @@ Core specifications for Eth2 clients be found in [specs](specs/). These are divi
 * [The Beacon Chain](specs/phase0/beacon-chain.md)
 * [Beacon Chain Fork Choice](specs/phase0/fork-choice.md)
 * [Deposit Contract](specs/phase0/deposit-contract.md)
-* [Honest Validator](specs/phase0/validator.md)
+* [Honest Validator](specs/phase0/validator.md)u
 * [P2P Networking](specs/phase0/p2p-interface.md)
 
 ### Phase 1
